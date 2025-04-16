@@ -67,7 +67,7 @@
 				<version>3.5.2</version>
 				<configuration>
 					<includes>
-						<include>**/*RegressionRunner.java</include>
+						<include>**/*${runner}.java</include>
 					</includes>
 					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
